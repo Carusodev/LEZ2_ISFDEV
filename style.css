@@ -1,0 +1,17 @@
+html {
+	background-color: green;
+	font-family: "Tahoma";
+}
+
+h1, p {
+	color: white;
+	background-color: blue;
+	border: solid 2px white;
+	width: 35%;
+	margin: 1em auto;
+	padding: 20px;
+}
+
+p {
+	font-size: 1.5em; 
+}
